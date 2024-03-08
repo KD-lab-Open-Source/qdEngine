@@ -1,0 +1,80 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XZipTest", "XZipTest\XZipTest.vcproj", "{8C9D0713-4B4A-49B1-8106-E515C7083ADC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672} = {D06200DF-F8CC-4BCF-B687-7DE2DDF06672}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xziplib", "XZip.vcproj", "{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug MT = Debug MT
+		DLL ASM Debug = DLL ASM Debug
+		DLL ASM Release = DLL ASM Release
+		DLL Debug = DLL Debug
+		DLL Release = DLL Release
+		LIB ASM Debug = LIB ASM Debug
+		LIB ASM Release = LIB ASM Release
+		LIB Debug = LIB Debug
+		LIB Release = LIB Release
+		Release = Release
+		Release MT = Release MT
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Debug.ActiveCfg = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Debug.Build.0 = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Debug MT.ActiveCfg = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Debug MT.Build.0 = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL ASM Debug.ActiveCfg = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL ASM Debug.Build.0 = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL ASM Release.ActiveCfg = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL ASM Release.Build.0 = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL Debug.ActiveCfg = DLL Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL Debug.Build.0 = DLL Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL Release.ActiveCfg = DLL Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.DLL Release.Build.0 = DLL Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB ASM Debug.ActiveCfg = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB ASM Debug.Build.0 = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB ASM Release.ActiveCfg = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB ASM Release.Build.0 = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB Debug.ActiveCfg = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB Debug.Build.0 = Debug|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB Release.ActiveCfg = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.LIB Release.Build.0 = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Release.ActiveCfg = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Release.Build.0 = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Release MT.ActiveCfg = Release|Win32
+		{8C9D0713-4B4A-49B1-8106-E515C7083ADC}.Release MT.Build.0 = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Debug.ActiveCfg = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Debug.Build.0 = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Debug MT.ActiveCfg = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Debug MT.Build.0 = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL ASM Debug.ActiveCfg = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL ASM Debug.Build.0 = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL ASM Release.ActiveCfg = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL ASM Release.Build.0 = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL Debug.ActiveCfg = DLL Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL Debug.Build.0 = DLL Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL Release.ActiveCfg = DLL Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.DLL Release.Build.0 = DLL Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB ASM Debug.ActiveCfg = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB ASM Debug.Build.0 = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB ASM Release.ActiveCfg = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB ASM Release.Build.0 = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB Debug.ActiveCfg = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB Debug.Build.0 = Debug|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB Release.ActiveCfg = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.LIB Release.Build.0 = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Release.ActiveCfg = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Release.Build.0 = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Release MT.ActiveCfg = Release|Win32
+		{D06200DF-F8CC-4BCF-B687-7DE2DDF06672}.Release MT.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

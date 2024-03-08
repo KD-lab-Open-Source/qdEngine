@@ -1,0 +1,15 @@
+Error: source c:/Steeler/qdEngine/Core/Util/qdaEditor/Кол_Go_В.avi is not a readable file or directory... skipping.
+Error: source c:/Steeler/qdEngine/Core/Util/qdaEditor/Кол_Go_В.qda is not a readable file or directory... skipping.
+Error: source c:/Steeler/qdEngine/Core/Колобки 3D (ОЛЕГ).qml is not a readable file or directory... skipping.
+Error: source c:/Steeler/qdEngine/Core/Колобки 3D-2_3 (субтитры).qml is not a readable file or directory... skipping.
+Error: source c:/Steeler/qdEngine/Core/Колобки 3D-3(хлам).qml is not a readable file or directory... skipping.
+c:/Steeler/qdEngine/Core/System/Graphics/gr_draw_sprite_rle.cpp:594: Warning: no matching class member found for
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, bool alpha_flag)
+Possible candidates:
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const class rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, bool alpha_flag)
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const class rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, float scale, bool alpha_flag)
+c:/Steeler/qdEngine/Core/System/Graphics/gr_draw_sprite_rle.cpp:1087: Warning: no matching class member found for
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, float scale, bool alpha_flag)
+Possible candidates:
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const class rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, bool alpha_flag)
+  void grDispatcher::PutSprMask_rle(int x, int y, int sx, int sy, const class rleBuffer *p, unsigned mask_color, int mask_alpha, int mode, float scale, bool alpha_flag)

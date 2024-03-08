@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test.vcproj", "{42EE2495-3DAE-485A-B225-7FF024F559CB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81} = {FE14308B-6347-42FF-A7BC-A1D8E445AE81}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Profiler", "Profiler\Profiler.vcproj", "{FE14308B-6347-42FF-A7BC-A1D8E445AE81}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugDll = DebugDll
+		DLL Debug = DLL Debug
+		DLL Release = DLL Release
+		Final = Final
+		Release = Release
+		ReleaseDll = ReleaseDll
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Debug.ActiveCfg = Debug|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Debug.Build.0 = Debug|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DebugDll.ActiveCfg = DebugDll|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DebugDll.Build.0 = DebugDll|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DLL Debug.ActiveCfg = Debug|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DLL Debug.Build.0 = Debug|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DLL Release.ActiveCfg = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.DLL Release.Build.0 = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Final.ActiveCfg = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Final.Build.0 = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Release.ActiveCfg = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.Release.Build.0 = Release|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.ReleaseDll.ActiveCfg = ReleaseDll|Win32
+		{42EE2495-3DAE-485A-B225-7FF024F559CB}.ReleaseDll.Build.0 = ReleaseDll|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Debug.ActiveCfg = Debug|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Debug.Build.0 = Debug|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DebugDll.ActiveCfg = DebugDll|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DebugDll.Build.0 = DebugDll|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DLL Debug.ActiveCfg = Debug|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DLL Debug.Build.0 = Debug|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DLL Release.ActiveCfg = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.DLL Release.Build.0 = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Final.ActiveCfg = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Final.Build.0 = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Release.ActiveCfg = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.Release.Build.0 = Release|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.ReleaseDll.ActiveCfg = ReleaseDll|Win32
+		{FE14308B-6347-42FF-A7BC-A1D8E445AE81}.ReleaseDll.Build.0 = ReleaseDll|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

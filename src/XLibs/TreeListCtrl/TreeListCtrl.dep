@@ -1,0 +1,164 @@
+# Microsoft Developer Studio Generated Dependency File, included by TreeListCtrl.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\TLCDragWnd.cpp : \
+	".\TLCDragWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TLCDropWnd.cpp : \
+	".\TLCDropWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TLHDragWnd.cpp : \
+	".\TLHDragWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TLHDropWnd.cpp : \
+	".\TLHDropWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListColumnInfo.cpp : \
+	".\TreeListColumnInfo.h"\
+	
+
+.\TreeListComboCtrl.cpp : \
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListCtrl.cpp : \
+	".\TLCDragWnd.h"\
+	".\TLCDropWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListCtrl.rc : \
+	".\res\bm_bkgnd.bmp"\
+	".\res\bm_bkgnd2.bmp"\
+	".\res\bm_checkbox.bmp"\
+	".\res\bm_def_head.bmp"\
+	".\res\bm_def_sort.bmp"\
+	".\res\bm_def_tree.bmp"\
+	".\res\bm_lockbox.bmp"\
+	".\res\cur_button.cur"\
+	".\res\cur_checkbox.cur"\
+	".\res\cur_cross.cur"\
+	".\res\CUR_DROP.CUR"\
+	".\res\CUR_HORZ.CUR"\
+	".\res\cur_lockbox.cur"\
+	".\res\CUR_SIZE.CUR"\
+	".\res\cur_split.cur"\
+	".\res\CUR_STOP.CUR"\
+	".\res\CUR_VERT.CUR"\
+	
+
+.\TreeListDC.cpp : \
+	".\TreeListDC.h"\
+	
+
+.\TreeListEditCtrl.cpp : \
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListHeaderCtrl.cpp : \
+	".\TLHDragWnd.h"\
+	".\TLHDropWnd.h"\
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListDC.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListItem.cpp : \
+	".\TreeListItem.h"\
+	
+
+.\TreeListStaticCtrl.cpp : \
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	
+
+.\TreeListTipCtrl.cpp : \
+	".\TreeListColumnInfo.h"\
+	".\TreeListComboCtrl.h"\
+	".\TreeListCtrl.h"\
+	".\TreeListEditCtrl.h"\
+	".\TreeListHeaderCtrl.h"\
+	".\TreeListItem.h"\
+	".\TreeListStaticCtrl.h"\
+	".\TreeListTipCtrl.h"\
+	

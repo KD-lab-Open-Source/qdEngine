@@ -1,0 +1,20 @@
+#ifndef __RESPONSE_H_INCLUDED__
+#define __RESPONSE_H_INCLUDED__
+
+
+namespace kdw{
+
+enum Response{
+	RESPONSE_NO,
+	RESPONSE_YES,
+	RESPONSE_CANCEL,
+	RESPONSE_OK,
+	RESPONSE_SAVE,
+	RESPONSE_ABORT,
+	RESPONSE_IGNORE,
+	RESPONSE_RETRY
+};
+
+}
+
+#endif

@@ -1,0 +1,12 @@
+# vs stuff
+*.ncb
+*.suo
+
+# compile stuff
+*.ib_pdb_index
+.garbage
+src/XLibs/STLPort/build/
+dbg/
+
+# build logs
+build*.log

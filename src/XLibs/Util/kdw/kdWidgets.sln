@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kdWidgets", "kdWidgets.vcproj", "{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DLL Debug = DLL Debug
+		DLL Release = DLL Release
+		LIB Debug Full = LIB Debug Full
+		LIB Release Full = LIB Release Full
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.Debug.ActiveCfg = Debug|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.Debug.Build.0 = Debug|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.DLL Debug.ActiveCfg = DLL Debug|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.DLL Debug.Build.0 = DLL Debug|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.DLL Release.ActiveCfg = DLL Release|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.DLL Release.Build.0 = DLL Release|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.LIB Debug Full.ActiveCfg = LIB Debug Full|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.LIB Debug Full.Build.0 = LIB Debug Full|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.LIB Release Full.ActiveCfg = LIB Release Full|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.LIB Release Full.Build.0 = LIB Release Full|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.Release.ActiveCfg = Release|Win32
+		{242B328B-96E4-42DB-9BBE-F4C81D51CD0F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

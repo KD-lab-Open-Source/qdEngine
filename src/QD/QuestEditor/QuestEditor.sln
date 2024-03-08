@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuestEditor", "QuestEditor.vcproj", "{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qdEngineCore", "..\Core\qdEngineCore.vcproj", "{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectUniqueName0 = QuestEditor.vcproj
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectName1 = \u0022$/QUESTEDITOR\u0022,\u0020XULAAAAA
+		SccLocalPath1 = .
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = true
+		SolutionUniqueID = {CD998656-2A6A-4FF7-9C6B-540B703FDEE7}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Debug for QuestEditor
+		ConfigName.2 = Release
+		ConfigName.3 = Release for QuestEditor
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.0 = {D70B5C07-7B27-47B8-BFA2-26DFB526D05C}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Debug.ActiveCfg = Debug for QuestEditor|Win32
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Debug for QuestEditor.ActiveCfg = Debug for QuestEditor|Win32
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Debug for QuestEditor.Build.0 = Debug for QuestEditor|Win32
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Release.ActiveCfg = Release for QuestEditor|Win32
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Release for QuestEditor.ActiveCfg = Release for QuestEditor|Win32
+		{1D3A1155-F64E-4DDD-9DB4-52DE88EBC9CA}.Release for QuestEditor.Build.0 = Release for QuestEditor|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Debug.ActiveCfg = Debug|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Debug for QuestEditor.ActiveCfg = Debug for QuestEditor|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Debug for QuestEditor.Build.0 = Debug for QuestEditor|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Release.ActiveCfg = Release|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Release for QuestEditor.ActiveCfg = Release for QuestEditor|Win32
+		{D70B5C07-7B27-47B8-BFA2-26DFB526D05C}.Release for QuestEditor.Build.0 = Release for QuestEditor|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
