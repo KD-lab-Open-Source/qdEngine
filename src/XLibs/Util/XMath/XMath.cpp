@@ -1717,15 +1717,15 @@ void Mat3d::serialize(Archive& ar)
 void MatXf::serialize(Archive& ar) 
 {
 	MergeBlocksAuto mergeBlocks(ar);
-	ar.serialize(rot(), "rotation", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
-	ar.serialize(trans(), "position", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+	ar.serialize(rot(), "rotation", "Ориентация");
+	ar.serialize(trans(), "position", "Позиция");
 }
 
 void MatXd::serialize(Archive& ar) 
 {
 	MergeBlocksAuto mergeBlocks(ar);
-	ar.serialize(rot(), "rotation", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
-	ar.serialize(trans(), "position", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+	ar.serialize(rot(), "rotation", "Ориентация");
+	ar.serialize(trans(), "position", "Позиция");
 }
 
 void QuatF::serialize(Archive& ar) 
@@ -1749,15 +1749,15 @@ void QuatD::serialize(Archive& ar)
 void Se3f::serialize(Archive& ar) 
 {
 	MergeBlocksAuto mergeBlocks(ar);
-	ar.serialize(rot(), "rotation", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
-	ar.serialize(trans(), "position", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+	ar.serialize(rot(), "rotation", "Ориентация");
+	ar.serialize(trans(), "position", "Позиция");
 }
 
 void Se3d::serialize(Archive& ar) 
 {
 	MergeBlocksAuto mergeBlocks(ar);
-	ar.serialize(rot(), "rotation", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
-	ar.serialize(trans(), "position", "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+	ar.serialize(rot(), "rotation", "Ориентация");
+	ar.serialize(trans(), "position", "Позиция");
 }
 
 void Vect4f::serialize(Archive& ar) 
